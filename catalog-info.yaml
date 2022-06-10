@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: dev-tooling-alg/argocd-example-apps
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
