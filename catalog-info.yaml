@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: dev-tooling-alg/argocd-example-apps
     argocd/app-name: guestbook
-    backstage.io/kubernetes-id: guestbook
+    backstage.io/kubernetes-id: guestbook-ui
     backstage.io/kubernetes-namespace: default
 spec:
   type: service
